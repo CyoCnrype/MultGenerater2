@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultGenerater", "MultGenerater\MultGenerater.csproj", "{08108A49-BD54-4BD5-AAFF-9881EC3D122B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSource", "DBSource\DBSource.csproj", "{7084B51F-2A0E-4E24-9230-D97846F448F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08108A49-BD54-4BD5-AAFF-9881EC3D122B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08108A49-BD54-4BD5-AAFF-9881EC3D122B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08108A49-BD54-4BD5-AAFF-9881EC3D122B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08108A49-BD54-4BD5-AAFF-9881EC3D122B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7084B51F-2A0E-4E24-9230-D97846F448F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7084B51F-2A0E-4E24-9230-D97846F448F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7084B51F-2A0E-4E24-9230-D97846F448F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7084B51F-2A0E-4E24-9230-D97846F448F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595C6685-2D83-4E1B-A247-AAFD598DBCCE}
+	EndGlobalSection
+EndGlobal
